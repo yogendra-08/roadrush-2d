@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "scores": {
+    "mission": {
+      "city": [],
+      "desert": [],
+      "forest": [],
+      "highway": []
+    },
+    "endless": {
+      "city": [],
+      "desert": [],
+      "forest": [],
+      "highway": []
+    }
+  },
+  "stats": {
+    "games_played": 1,
+    "total_coins": 2,
+    "total_distance": 699.5999113206598,
+    "top_speed_kmh": 119,
+    "victories": 0,
+    "maps_won": []
+  },
+  "achievements": {}
+}
